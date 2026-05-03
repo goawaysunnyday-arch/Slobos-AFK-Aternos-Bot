@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "BotAFK",
     "password": "chalol78",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "BirDSMP1.aternos.me",
